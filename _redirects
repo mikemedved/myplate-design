@@ -1,0 +1,6 @@
+# Short paths, mirroring brassery.net's own. Anyone who learns /eb there can use
+# it here too, and a QR code or a printed card can point straight at a material.
+/eb   https://brassery.net/eb   302
+/ef   https://brassery.net/ef   302
+/b    https://brassery.net/eb   302
+/f    https://brassery.net/ef   302
